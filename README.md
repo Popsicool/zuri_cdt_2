@@ -3,12 +3,12 @@
 
 
 ##### NB: 
-This project is currently being hosted on a free tier on heroku which makes application inactive if not used after a period of 15 minutes. Please exercise patience when making the first request, as that may take a while to 'wake' the server from its inactivate state.
+This project is currently being hosted on a free tier on render which makes application inactive if not used after a period of 15 minutes. Please exercise patience when making the first request, as that may take a while to 'wake' the server from its inactivate state.
 
 ### links
-1. Base Url: 
-1. Swagger Documentation: 
-1. Postman Collection: 
+1. Base Url: https://cdt2.onrender.com
+1. Swagger Documentation: https://cdt2.onrender.com
+1. Postman Collection: https://documenter.getpostman.com/view/30024993/2s9YJXYQ4o
 
 ### Test credentials
 1. Username: zuri
